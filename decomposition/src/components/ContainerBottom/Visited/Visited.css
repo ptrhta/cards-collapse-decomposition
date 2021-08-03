@@ -1,0 +1,23 @@
+.visited {
+    margin-top: 32px;
+}
+
+.visited-list {
+    padding: 0;
+}
+
+.visited-text {
+    color: black;
+    margin-bottom: 8px;
+}
+
+.visited-text span {
+    font-weight: 600;
+}
+
+.visited-title {
+    font-weight: 500;
+    
+    color: #0054b9;
+    margin-bottom: 16px;
+}

@@ -1,0 +1,16 @@
+.newsTitles-row {
+    margin-bottom: 8px;
+    margin-left: -32px;
+}
+
+.newsTitles-icon {
+    width: 14px;
+    height: 14px;
+
+    margin-right: 16px;
+}
+
+.newsTitles-text {
+    font-size: 13px;
+    color: black;
+}

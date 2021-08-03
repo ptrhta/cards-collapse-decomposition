@@ -1,0 +1,11 @@
+.weather__now {
+    font-size: 32px;
+    margin: 0 8px;
+}
+
+.weather__title {
+    font-weight: 500;
+    
+    color: #0054b9;
+    margin-bottom: 16px;
+}

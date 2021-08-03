@@ -1,0 +1,19 @@
+.promotionalBlock {
+    justify-content: flex-end;
+    align-items: flex-start;
+}
+
+.promotionalBlock-img {
+    width: 100px;
+    height: 100px;
+}
+
+.promotionalBlock-title {   
+    color: #0054b9;
+
+    margin-bottom: 8px;
+}
+
+.promotionalBlock-description {
+    font-size: 13px;
+}

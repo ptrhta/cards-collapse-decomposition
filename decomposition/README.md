@@ -1,6 +1,6 @@
-Карточки
+Декомпозиция
 
-![Alt Text](./cards.png)
+![Alt Text](./decomposition.png)
 
 # Getting Started with Create React App
 

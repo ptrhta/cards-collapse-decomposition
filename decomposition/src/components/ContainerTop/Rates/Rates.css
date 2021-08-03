@@ -1,0 +1,15 @@
+.rates {
+    font-size: 13px;
+}
+
+.rates-item {
+    margin-right: 8px;
+}
+
+.rates-currency, .rates-rate {
+    font-weight: 500;
+    text-transform: uppercase;
+    letter-spacing: .6px;
+    
+    margin-right: 6px;
+}

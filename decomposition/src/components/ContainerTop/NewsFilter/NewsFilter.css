@@ -1,0 +1,9 @@
+.filterItem {
+    color: #6da2e1;
+    cursor: pointer;
+    margin-right: 8px;
+}
+
+.filterItem--active, .filterItem:hover {
+    color: #0054b9;
+}

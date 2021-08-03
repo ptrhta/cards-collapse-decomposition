@@ -1,0 +1,12 @@
+.containerSearch {
+    align-items: center;
+    margin-left: -300px;
+}
+
+.containerSearch-text {
+    margin-top: 16px;
+}
+
+.containerSearch-text span {
+    color: #999;
+}
